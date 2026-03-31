@@ -1,4 +1,4 @@
-LLM stock analysis includes the following knowlege
+LLM stock analysis includes the following knowledge
 1. classes were between 2026-02-07~2026-02-21
 2. accounting 101, stock 101, stock trading 101
 3. LLM cloud API access, LLM local API access by using Generative AI coding method
